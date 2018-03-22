@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-work-udemy.iml" filepath="$PROJECT_DIR$/.idea/modules/java-work-udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-work-udemy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-work-udemy_main.iml" group="java-work-udemy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-work-udemy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-work-udemy_test.iml" group="java-work-udemy" />
+    </modules>
+  </component>
+</project>
